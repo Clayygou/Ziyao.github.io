@@ -1,0 +1,9 @@
+---
+title: "EmoPrompt-ECPE: Emotion Knowledge-aware Prompt-tuning for Emotion-Cause Pair Extraction"
+collection: publications
+permalink: /publication/emoprompt-ecpe/
+date: 2024-05-25
+venue: "LREC/COLING 2024"
+paperurl: https://aclanthology.org/2024.lrec-main.504
+citation: 'Xue Gu, Zhihan Zhou, Ziyao Meng, et al., "EmoPrompt-ECPE: Emotion Knowledge-aware Prompt-tuning for Emotion-Cause Pair Extraction", in LREC/COLING 2024.'
+---
