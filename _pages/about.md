@@ -7,7 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## 中文简介
+
+孟子尧，博士研究生，Minho大学与吉林大学联合培养。研究方向包括长尾识别、特征增强与深度学习，在 CVPR、ECAI、LREC-COLING 等国际会议上发表多篇论文。
+
+- 📚 教育背景：
+  - 2020–2025：博士，Minho大学 & 吉林大学
+  - 2017–2020：硕士，吉林大学
+  - 2013–2017：本科，吉林大学
+
+- 🔗 学术链接：
+  - [GitHub](https://github.com/Clayygou)
+  - [DBLP](https://dblp.uni-trier.de/pid/262/2484.html)
+  - [ORCID](https://orcid.org/0000-0002-7227-9608)
+
+---
+
+## English Bio
+
+Ziyao Meng is a Ph.D. student jointly supervised by the University of Minho and Jilin University. His research interests include long-tailed visual recognition, feature transfer, and deep learning. He has published papers in top-tier conferences including CVPR, ECAI, and LREC-COLING.
+
+- 📚 Education:
+  - 2020–2025: Ph.D., University of Minho & Jilin University
+  - 2017–2020: M.Sc., Jilin University
+  - 2013–2017: B.Eng., Jilin University
+
+- 🔗 Academic Links:
+  - [GitHub](https://github.com/Clayygou)
+  - [DBLP](https://dblp.uni-trier.de/pid/262/2484.html)
+  - [ORCID](https://orcid.org/0000-0002-7227-9608)
 
 A data-driven personal website
 ======
